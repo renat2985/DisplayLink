@@ -6,6 +6,6 @@ Full driver pack displaylink-driver-1.0.335
 
 
 
-#Install
+##Install
 
->> sudo ./displaylink-installer.sh install
+> sudo ./displaylink-installer.sh install
